@@ -48,15 +48,15 @@ github: joey-chen
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: joey-chen@outlook.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Joey Chen
+        bio:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
