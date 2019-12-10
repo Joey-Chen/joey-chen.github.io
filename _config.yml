@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/joey.jpg
+picture: assets/images/joey.png
 
 base-image-url: https://joey-chen.github.io/assets/images
 # If you want to include your resume, set to true
@@ -59,7 +59,7 @@ authors:
         name: Joey Chen
         bio:
         external-image: false
-        picture: assets/images/profile.png
+        picture: assets/images/profile.jpg
         twitter: johndoe
     jamesfoster:
         name: James Foster
